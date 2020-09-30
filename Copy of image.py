@@ -1,5 +1,5 @@
 import cv2
-# all_images=glob.glob('*.jpg')
+all_images=glob.glob('*.jpg')
 # print(all_images)
 images =["/home/aiktc/Desktop/galaxy.jpg","/home/aiktc/Desktop/kangaroos.jpg"]
 # print(type(img))
