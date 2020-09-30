@@ -1,2 +1,2 @@
-# new
-my new project
+# new project
+project about copy file image,crop etc.
